@@ -9,7 +9,6 @@ var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
 };
 function eraseOverlapIntervals1(intervals) {
     var maxNonOverlapIntervals = [];
-    // intervals.sort((a, b) => (a[0] === b[0] ? a[1] - b[1] : a[0] - b[0]));
     var bins = new Array(intervals.length);
     for (var i = 0; i < intervals.length; i++)
         bins[i] = 0;
@@ -65,6 +64,7 @@ function getOverlaps(arr) {
 function sum(arr) {
     return arr.reduce(function (acc, overlap) { return acc + overlap; }, 0);
 }
+////////////////////////////////////////////////////////
 function eraseOverlapIntervals2(intervals) {
     intervals.sort(function (a, b) { return (a[0] === b[0] ? a[1] - b[1] : a[0] - b[0]); });
     var removed = [];
