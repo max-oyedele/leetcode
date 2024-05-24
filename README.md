@@ -1,3 +1,3 @@
-# Leetcode profile
+# Everyday Challenging, Solving are great hobby
 
-![Leetcode](https://leetcode.com/u/maximdym/)
+![Leetcode Profile](https://leetcode.com/u/maximdym/)
