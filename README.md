@@ -1,3 +1,3 @@
-# Everyday Challenging, Solving are great hobby
+# Everyday Challenging, Solving Are Great Hobby
 
 [Leetcode Profile](https://leetcode.com/u/maximdym/)
