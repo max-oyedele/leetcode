@@ -1,5 +1,5 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+exports.__esModule = true;
 // Definition for singly-linked list.
 var ListNode = /** @class */ (function () {
     function ListNode(val, next) {
@@ -8,4 +8,4 @@ var ListNode = /** @class */ (function () {
     }
     return ListNode;
 }());
-exports.default = ListNode;
+exports["default"] = ListNode;
