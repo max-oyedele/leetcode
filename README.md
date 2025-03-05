@@ -6,6 +6,8 @@ Engaging in a hobby every day can be highly beneficial for software engineers, p
 
 [I Like Solving Problems on Leetcode](https://leetcode.com/u/max-oyedele/)
 
-![image](./2024-50.gif) ![image](./2024-100.gif)
+![image](./2024-50.gif) 
 
-![image](./2025-50.gif) ![image](./2025-50.gif)
+![image](./2024-100.gif)
+
+![image](./2025-50.gif) 
